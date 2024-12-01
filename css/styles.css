@@ -1,0 +1,182 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #fff;
+  color: #434455;
+} 
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.header {
+
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  line-height: 1.17;
+  color: #4d5ae5;
+}
+
+.logo:hover, .logo:focus {
+  color: #404bbf;
+}
+
+.nav {
+  color: #2e2f42;
+}
+.logo-web {
+  color: #2e2f42;
+}
+
+.nav-menu {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: inherit;
+}
+
+.nav-menu:hover, .nav-menu:focus {
+color: #404bbf;
+}
+
+.contacts {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.contacts:hover  {
+  color: #404bbf;
+}
+
+.contacts:focus {
+  color: #404bbf;
+}
+
+.address {
+  font-style:normal;
+}
+
+.hero {
+  background-color: #2e2f42;
+}
+
+.hero-title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color:  #ffffff;
+}
+
+.button {
+  background-color: #4D5AE5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.button:hover, .button:focus {
+  background-color: #404BBF;
+}
+
+.features-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.features-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.team {
+  background-color: #F4F4FD;
+}
+
+.team-title {
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.team-card {
+  background-color:  #FFFFFF;
+}
+
+.team-card-name {
+  font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.team-card-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.title-portfolio {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color:  #2e2f42;
+}
+
+.prtf-card-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+
+  .prtf-card-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+  }
+
+  .footer {
+    background-color: #2e2f42;
+  }
+
+  .logo-web-fr {
+    color: #f4f4fd;
+  }
+
+  .footer-text {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+  }
