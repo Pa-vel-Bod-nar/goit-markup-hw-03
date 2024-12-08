@@ -272,7 +272,7 @@ padding: 0;
   padding: 0px auto;
   margin: 32px 16px;
   text-align: center;
-} 
+}
 
 .team-card {
   background-color:  #FFFFFF;
@@ -300,7 +300,8 @@ margin-bottom: 8px;
 }
 
 .team .container {
-  padding: 32px 0;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
 .portfolio .container {
